@@ -1,0 +1,8 @@
+.chewie, .yoda, .c3po {
+  display: none;
+}
+
+img {
+  max-width: 300px;
+  max-height: auto;
+}
