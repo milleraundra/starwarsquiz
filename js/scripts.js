@@ -46,7 +46,7 @@ $(function(){
     }
 
 //Total
-    if (points >= 15) {
+    if (points >= 14) {
       $('.yoda').show();
       $('.chewie, .c3po').hide();
     }
